@@ -1,6 +1,6 @@
 # cursoReact2024Part0
 
-0.4: Nuevo diagrama de nota
+#0.4: Nuevo diagrama de nota
 
 sequenceDiagram
     participant User as Usuario
@@ -44,7 +44,7 @@ sequenceDiagram
 
 
 
-0.5: Diagrama de aplicación de una sola página
+#0.5: Diagrama de aplicación de una sola página
 
 sequenceDiagram
     participant User as Usuario
@@ -78,7 +78,7 @@ sequenceDiagram
     Note right of Browser: El navegador renderiza la interfaz de la SPA con las notas obtenidas
 
 
-0.6: Nueva nota en diagrama de aplicación de una sola pagina
+#0.6: Nueva nota en diagrama de aplicación de una sola pagina
 
 sequenceDiagram
     participant User as Usuario
